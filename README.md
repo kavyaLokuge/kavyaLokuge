@@ -27,7 +27,7 @@ I am a 21 year old Bsc.(Hons) IT undergraduate at the university of Sri Jayeward
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KavyaLokuge&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
-## My Holopin Badges
+## 🏅 My Holopin Badges
 [![An image of @kavyalokuge's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kavyalokuge)](https://holopin.io/@kavyalokuge)
 
 ---
