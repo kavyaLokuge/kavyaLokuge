@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 
-I am a 21 year old Bsc.(Hons) IT undergraduate at the university of Sri Jayewardenepura. I currently work as a Full Time E-commerce Operations Asspciate (Web store) and Digital Marketer at 6IXSENSES Digital Transformation Inc. Toronto, Ontario,Canada. Also I am a freelance designer and web developer . I have a demonstrated history of working in the UI/UX designing , Graphic+ Brand designing, web development, Digital marketing and e- commerce industries.
+I am a 21 year old Bsc.(Hons) IT undergraduate at the university of Sri Jayewardenepura. I currently work as a Full Time E-commerce Operations Asspciate (Web store) and Digital Marketer at 6IXSENSES Digital Transformation Inc. Toronto, Ontario,Canada. I am also a freelance designer and web developer . I have a demonstrated history of working in the Ecommerce , Webstore development, UI/UX designing , Graphic+ Brand designing, web development and Digital marketing industries.
 
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=KavyaLokuge) -->
