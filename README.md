@@ -26,7 +26,8 @@ I am a 21 year old Bsc.(Hons) IT undergraduate at the university of Sri Jayeward
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyalokuge&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kavyalokuge&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=kavyalokuge&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
@@ -37,7 +38,6 @@ I am a 21 year old Bsc.(Hons) IT undergraduate at the university of Sri Jayeward
 ---
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🏅 My Holopin Badges
 [![An image of @kavyalokuge's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kavyalokuge)](https://holopin.io/@kavyalokuge)
@@ -45,5 +45,13 @@ I am a 21 year old Bsc.(Hons) IT undergraduate at the university of Sri Jayeward
 ---
 [![](https://visitcount.itsvg.in/api?id=KavyaLokuge&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+
 
