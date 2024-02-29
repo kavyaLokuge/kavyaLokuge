@@ -28,9 +28,6 @@ I am a Passionate MERN Stack and Python developer with ML expertise. Head over t
 ![](https://github-profile-trophy.vercel.app/?username=kavyalokuge&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kavyalokuge&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
 
